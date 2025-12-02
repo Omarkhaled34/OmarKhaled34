@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm omar khaled</h1>
 <h3 align="center">iam a data analyst</h3>
